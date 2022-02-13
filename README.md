@@ -1,4 +1,4 @@
-# Go-Miningcore-Pool
+# Go-Miningcore-Pool (COMING SOON)
 Miningcore Pool written in GOlang
 
 
